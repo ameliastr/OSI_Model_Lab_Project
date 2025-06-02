@@ -4,7 +4,7 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ---
 
-## 🧪 Lab Environment
+## Lab Environment
 
 - **ACIDC01** – Windows Server 2022 (Domain Controller)
 - **ACIDM01** – Windows Server 2022 (Domain Member Server)
@@ -14,7 +14,7 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ---
 
-## ✅ Skills Practiced
+## Skills Practiced
 
 - NIC Inspection (Layer 1)
 - ARP Table & Interface Statistics (Layer 2)
@@ -25,9 +25,9 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ---
 
-## 📁 Exercises Summary
+## Exercises Summary
 
-### 🔹 Exercise 1 – OSI Layers 1 to 3
+### Exercise 1 – OSI Layers 1 to 3
 
 - **Tools used**: Device Manager, `ipconfig`, `arp -a`, `route print`
 - **Skills**:
@@ -35,21 +35,21 @@ This project documents hands-on practice with all seven layers of the OSI Model 
   - Viewed ARP entries and interface stats (Layer 2)
   - Reviewed local routing table (Layer 3)
 
-### 🔹 Exercise 2 – OSI Layers 4 and 5
+### Exercise 2 – OSI Layers 4 and 5
 
 - **Tools used**: Wireshark, Nmap
 - **Skills**:
   - Captured a TCP handshake using Wireshark
   - Followed a TCP stream on port 80
 
-### 🔹 Exercise 3 – OSI Layer 6
+### Exercise 3 – OSI Layer 6
 
 - **Tools used**: Windows File Explorer, Terminal
 - **Skills**:
   - Compressed and encrypted files on Windows 11
   - Verified attribute changes via command line
 
-### 🔹 Exercise 4 – OSI Layer 7
+### Exercise 4 – OSI Layer 7
 
 - **Tools used**: `nslookup`
 - **Skills**:
@@ -58,7 +58,7 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ---
 
-## 📸 Additional Files
+## Additional Files
 
 - `lab_report.md`: A detailed, step-by-step walkthrough of each exercise.
 - `screenshots/`: (Optional) Captures of commands, tools, and outputs.
@@ -66,7 +66,7 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ---
 
-## 💼 Relevance to My Career
+## Relevance to My Career
 
 This project demonstrates practical, real-world skills relevant to:
 
@@ -79,6 +79,6 @@ By completing this module, I’ve gained technical experience in protocol behavi
 
 ---
 
-## 🔗 License
+## License
 
 This project is for educational and portfolio use. No commercial or production systems were involved.
