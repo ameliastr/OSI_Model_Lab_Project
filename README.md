@@ -29,7 +29,7 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ### Exercise 1 – OSI Layers 1 to 3
 
-- **Tools used**: Device Manager, `ipconfig`, `arp -a`, `route print`
+- **Tools used**: Device Manager, "ipconfig", "arp -a", "route print"
 - **Skills**:
   - Identified and examined NIC settings (Layer 1)
   - Viewed ARP entries and interface stats (Layer 2)
@@ -51,7 +51,7 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ### Exercise 4 – OSI Layer 7
 
-- **Tools used**: `nslookup`
+- **Tools used**: "nslookup"
 - **Skills**:
   - Queried local and external DNS servers
   - Retrieved authoritative nameservers for domain
@@ -60,9 +60,8 @@ This project documents hands-on practice with all seven layers of the OSI Model 
 
 ## Additional Files
 
-- `lab_report.md`: A detailed, step-by-step walkthrough of each exercise.
-- `screenshots/`: (Optional) Captures of commands, tools, and outputs.
-- `configs/`: (Optional) Terminal outputs or network config files.
+- "lab_report.md": A detailed, step-by-step walkthrough of each exercise.
+- "screenshots": Captures of commands, tools, and outputs.
 
 ---
 
@@ -75,7 +74,7 @@ This project demonstrates practical, real-world skills relevant to:
 - Cybersecurity
 - IT Support & Troubleshooting
 
-By completing this module, I’ve gained technical experience in protocol behavior, system diagnostics, and secure file handling—skills critical to an IT role.
+By completing this module, I’ve gained technical experience in protocol behavior, system diagnostics, and secure file handling skills critical to an IT role.
 
 ---
 
